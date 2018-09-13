@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.n26.HttpJsonIT" time="0,000000" tests="1" errors="0" skipped="0" failures="1">
+    <testcase name="BigDecimal rounding" classname="com.n26.HttpJsonIT" time="0,000000">
+        <failure>
+            Runtime Error.
+        </failure>
+    </testcase>
+</testsuite>
